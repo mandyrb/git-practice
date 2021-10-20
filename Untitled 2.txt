@@ -4,3 +4,5 @@ Third line
 Fourth line added on ticket branch
 Fifth line added on ticket branch
 Sixth line to add
+
+Now I'm adding a second paragraph!
